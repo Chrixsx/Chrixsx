@@ -1,11 +1,15 @@
 <h1 align="center">Hola 👋 This is Chris </h1>
 <h3 align="center">I'm a Medical Scientist (pathology).. but.. in love with Bioinformatics.</h3>
 
-- 🔭 I’m currently working on **Exploring the genetic correlation and potential causal relationship between Epilepsy and other traits (circadian and metabolites)**
+- 🌍 I'm currently based in **Melbourne, Australia**
 
+- 🔭 Currently working on **Exploring the genetic correlation and potential causal relationship between Epilepsy and other traits (circadian and metabolites)**
+  
+- 🌱 Planning to learn **Nextflow**
+  
 - 📫 Reach me **via Linkedin**
 
-- 🌱 Planning to learn **Nextflow** 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
