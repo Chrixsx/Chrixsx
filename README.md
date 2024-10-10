@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 This is Chris </h1>
-<h3 align="center">I'm a Medical Scientist... but.. in love with Bioinformatics.</h3>
+<h3 align="center">I'm a Medical Scientist... but.. crazy about Bioinformatics.</h3>
 
 - 🌍 I'm currently based in **Melbourne, Australia**
 
