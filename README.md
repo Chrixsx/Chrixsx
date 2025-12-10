@@ -3,10 +3,6 @@
 
 - 🌍 I'm currently based in **Melbourne, Australia**
 
-- 🔭 Currently working on **Exploring the genetic correlation and potential causal relationship between Epilepsy and other traits (circadian and metabolites)**
-  
-- 🌱 Planning to learn **Nextflow**
-  
 - 📫 Reach me **via Linkedin**
 
 
